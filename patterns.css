@@ -1,0 +1,10 @@
+/* Formatting images */
+img {
+    height: 400px;
+    display: inline-block;
+    margin-left: 5%;
+    margin-right: 2%;
+    border-radius: 20px;
+    border-style: double;
+    border-color: rgb(173, 51, 204);
+}

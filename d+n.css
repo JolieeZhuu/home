@@ -1,0 +1,126 @@
+body {
+    font-family: Tahoma, Helvetica, Georgia, 'Times New Roman', sans-serif;
+    /* Top to bottom gradient background from beige to rgb(164, 168, 213 ) (light purple-blue) */
+    background-image: linear-gradient(beige, rgb(164, 168, 213 ));
+}
+
+/* Formatting text */
+.whole {
+    margin: 3%;
+}
+
+p, ul, ol, table {
+    font-size: 20px;
+    color: #666666;
+    margin: 2%;
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 27px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 22px;
+}
+
+.img-citation {
+    font-size: 12px;
+}
+
+table {
+    text-align: center;
+}
+
+.facts {
+    color: rgb(221, 109, 44);
+}
+
+.top {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(60, 62, 200);
+}
+
+/* Creates a navigation bar */
+.u_l {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(151, 155, 189);
+}
+  
+.list {
+    float: left;
+}
+  
+.list a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+/* Change the link color to rgb(9, 41, 120) (dark blue) on hover */
+.list a:hover {
+    background-color: rgb(9, 41, 120);
+}
+
+.hide {
+    display: none;
+}
+
+.show:hover + .hide {
+    display: block;
+}
+
+/* Image formatting */
+#image1, #image2 {
+    height: 500px;
+    border-radius: 20px;
+    border-style: double;
+    border-color: rgb(173, 51, 204);
+}
+
+#image3, #image4, #image5 {
+    height: 350px;
+    border-radius: 20px;
+    border-style: double;
+    border-color: coral;
+}
+
+#image6 {
+    width: 700px;
+    border-radius: 20px;
+    border-style: double;
+    border-color: rgb(173, 51, 204);
+}
+
+#image7 {
+    height: 466px;
+    border-radius: 20px;
+    border-style: double;
+    border-color: rgb(173, 51, 204);
+}
+
+#image8 {
+    height:468px;
+    border-radius: 20px;
+    border-style: double;
+    border-color: rgb(173, 51, 204);
+}
+
+.images {
+    text-align: center;
+    border-radius: 20px;
+}
