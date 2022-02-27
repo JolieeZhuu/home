@@ -4,7 +4,7 @@ p, h1 {
     text-align: center;
 }
 
-#italic {
+.italic {
     font-style: italic
 }
 
@@ -35,7 +35,7 @@ img {
     width: 30%;
     cursor: pointer;
 }
-#anchor:link, #anchor:visited {
+.anchor:link, .anchor:visited {
     color: white;
     padding: 5% 35%;
     text-align: center;
