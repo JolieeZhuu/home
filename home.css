@@ -53,7 +53,10 @@ img {
     border-color: #4c77af;
 }
 
-/* Formatting validator images*/
-#validators {
-    width:65px !important;
+/* Formatting validator images */
+.validators {
+    width:65px;
+    display: block;
+    margin-left: 0%;
+    margin-bottom: 0%;
 }

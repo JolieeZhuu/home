@@ -10,6 +10,13 @@ img {
 }
 
 /* Formatting validator images */
-#validators {
-    width:65px;
+.validators {
+    width: 65px;
+    display: block;
+    height: auto;
+    margin-left: 0%;
+    margin-right: 0%;
+    border-radius: 0px;
+    border-style: none;
+    border-color: none;
 }
