@@ -18,5 +18,5 @@ img {
     margin-right: 0%;
     border-radius: 0px;
     border-style: none;
-    border-color: none;
+    border-color: currentColor;
 }
