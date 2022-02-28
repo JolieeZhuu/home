@@ -1,5 +1,5 @@
 /* Formatting validator images */
-#validators {
+.validators {
     width: 65px;
-    display: block !important;
+    display: block;
 }
