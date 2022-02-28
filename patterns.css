@@ -8,3 +8,8 @@ img {
     border-style: double;
     border-color: rgb(173, 51, 204);
 }
+
+/* Formatting validator images */
+#validators {
+    width:65px;
+}
