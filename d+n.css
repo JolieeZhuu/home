@@ -126,6 +126,7 @@ table {
 }
 
 /* Formatting validator images */
-#validators {
-    width:65px !important;
+.validators {
+    width: 65px;
+    display: block;
 }
