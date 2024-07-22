@@ -1,2 +1,2 @@
 # home
-See (website)[https://jolieezhuu.github.io/home/diurnal-nocturnal.html]
+See [website]([url](https://jolieezhuu.github.io/home/diurnal-nocturnal.html))
